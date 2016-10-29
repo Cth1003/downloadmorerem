@@ -7,7 +7,7 @@ function create(htmlStr) {
     }
     return frag;
 }
-var rems = ['http://i.imgur.com/GXzzfIU.jpg', 'http://i.imgur.com/93SQyjX.jpg', 'http://i.imgur.com/RQWAOQI.jpg', 'http://i.imgur.com/yrjkRxr.png', 'http://i.imgur.com/A6exbTG.jpg', 'http://i.imgur.com/gis0Vml.jpg', 'http://i.imgur.com/7YQ7EPG.png', 'http://i.imgur.com/EINp6fV.jpg'];
+var rems = ['http://i.imgur.com/GXzzfIU.jpg', 'http://i.imgur.com/93SQyjX.jpg', 'http://i.imgur.com/RQWAOQI.jpg', 'http://i.imgur.com/yrjkRxr.png', 'http://i.imgur.com/A6exbTG.jpg', 'http://i.imgur.com/gis0Vml.jpg', 'http://i.imgur.com/7YQ7EPG.png', 'http://i.imgur.com/EINp6fV.jpg', 'http://vignette1.wikia.nocookie.net/rezero/images/0/02/Rem_Anime.png', 'http://static.zerochan.net/Rem.(Re%3AZero).full.2010867.jpg', 'http://static.zerochan.net/Rem.(Re%3AZero).full.2016177.jpg', 'http://www.nautiljon.com/images/perso/00/82/rem_13328.jpg?1476293768'];
 var success = function(msg){
     console.info(msg);
 };
